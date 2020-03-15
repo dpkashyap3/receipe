@@ -1,0 +1,16 @@
+.grid{
+    margin:20px 50px;
+    overflow:hidden;
+    background:slategrey;
+    border-radius:20px!important;
+}
+.grid img{
+    border-radius:10%;
+    border:2px solid slategrey;
+    box-shadow:2px 2px 15px grey;
+}
+.cardbody{
+    background:slategrey;
+    border-radius:10%;
+    color:white;
+}

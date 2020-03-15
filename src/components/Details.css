@@ -1,0 +1,38 @@
+.cardContainer{
+    background:transparent!important;
+    margin-top:100px;
+    color:white;
+    border:2px solid grey!important;
+    box-shadow:2px 2px 5px white;
+    border-radius:50px!important;
+}
+.cardImage{
+    height:400px!important;
+    width:400px!important;
+    border-radius:50%;
+   
+}
+  .Modal {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    right: 20px;
+    bottom: 20px;
+    border-radius:20px;
+    box-shadow:2px 5px 5px tomato;
+    background-color: white;
+    overflow:scroll;
+  }
+
+  .Overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0,0,0,0.4);
+  }
+  .noborder{
+    border:none;
+    font-weight:900!important;
+  }
